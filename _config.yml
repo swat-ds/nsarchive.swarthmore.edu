@@ -9,13 +9,10 @@ title:            "National Security Archive Internship"
 tagline:          "coming soon...."
 description:      "@ Swarthmore College"
 url:              ""
-baseurl:          ""
+baseurl:          /
 
 author:
   name:           "Swarthmore College Libraries"
-
-
-paginate:         5
 
 # Custom vars
 version:          2.1.0
