@@ -9,7 +9,7 @@ title:            "NS Archive Internship @ Swarthmore College"
 tagline:          'coming soon....'
 description:      "Website for the National Security Archive Internship @ Swarthmore College"
 url:              ""
-baseurl:          ""
+baseurl:          /
 
 author:
   name:           "Swarthmore College Libraries"
