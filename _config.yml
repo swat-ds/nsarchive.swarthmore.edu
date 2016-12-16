@@ -5,8 +5,8 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            National Security Archive Internship @ Swarthmore College
+tagline:          'coming soon....'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
@@ -24,3 +24,6 @@ github:
   repo:           https://github.com/poole/hyde
 
 gems: [jekyll-paginate]
+
+include: 
+  - _pages
