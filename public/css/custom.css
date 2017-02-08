@@ -1,0 +1,7 @@
+a.sidebar-nav-item-image {
+	background-color: white;
+}
+
+a.sidebar-nav-item-image img:hover {
+	opacity: .5;
+}
