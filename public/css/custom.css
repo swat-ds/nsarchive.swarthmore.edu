@@ -20,8 +20,9 @@ a.sidebar-nav-item-image img:hover {
 
 footer {
   background-color: #B82601;
-  // font-size: $footer-font-size;
-  padding-bottom: 1em;
-  text-align: center;
-  // min-height: 100vh;
+  padding: 1rem;
+}
+
+.content {
+	min-height: 100vh; /* minus the height of the footer */
 }
