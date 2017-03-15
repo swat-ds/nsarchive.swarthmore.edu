@@ -14,6 +14,6 @@ a.sidebar-nav-item-image img:hover {
   color: #FFF;
 }
 
-.sidebar .lead {
+.sidebar .lead a {
 	color: #B82601;
 }
