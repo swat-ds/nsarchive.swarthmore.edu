@@ -7,5 +7,13 @@ a.sidebar-nav-item-image img:hover {
 }
 
 .theme-base-08 .sidebar {
-  background-color: lightgrey;
+  background-color: #062f4f;
+}
+
+.sidebar a {
+  color: #FFF;
+}
+
+.sidebar .lead {
+	color: #B82601;
 }
