@@ -5,3 +5,7 @@ a.sidebar-nav-item-image {
 a.sidebar-nav-item-image img:hover {
 	opacity: .5;
 }
+
+.theme-base-08 .sidebar {
+  background-color: lightgrey;
+}
