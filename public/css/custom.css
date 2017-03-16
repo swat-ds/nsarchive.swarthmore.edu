@@ -26,3 +26,13 @@ footer {
 .content {
 	min-height: 100vh; /* minus the height of the footer */
 }
+
+/*controls table where logos are located in the index page */
+tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
+	background-color: #fff
+}
+
+td,
+th {
+	border-color: #fff;
+}
