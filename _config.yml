@@ -8,8 +8,8 @@ permalink:        pretty
 title:            "National Security Archive Internship" 
 tagline:          "coming soon....."
 description:      "@ Swarthmore College"
-url:              "http://nsarchive.swarthmore.edu/"
-baseurl:          
+url:              ""
+baseurl:          /
 
 author:
   name:           "Swarthmore College Libraries"
