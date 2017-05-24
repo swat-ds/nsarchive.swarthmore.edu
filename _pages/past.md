@@ -12,7 +12,7 @@ participants
 
 ## 2015
 
-![group of students](./img/summer_research15.jpg)
+![group of students](.../img/summer_research15.jpg)
 
 participants
 
