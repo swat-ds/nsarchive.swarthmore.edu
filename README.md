@@ -1,4 +1,10 @@
-# Hyde
+# National Security Archive Internship @ Swarthmore College
+
+The Summer Research Internship offers students the opportunity to learn about Latin American-US relations while engaging in work that expands the capacity of the National Security Archive. Under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko, interns gain valuable experience working directly with declassified government documents, as well as working collaboratively on an interdisciplinary and geographically-distributed team.
+
+## Site
+
+This site was built using Hyde theme. See below for information about how this site is structured. 
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
