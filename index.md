@@ -14,10 +14,10 @@ Each week, the NSA interns, Carlos, Roberto, and Sarah meet (remotely/ in-person
 
 ### 2017 Team:
 
-- Sarah Elichko, *Social Sciences & Data Librarian, Swarthmore College*
-- Lewis Fitzgerald-Holland *Intern Researcher class of '18, Swarthmore College*
-- Carlos Osorio *Information Systems Manager, Analyst and Director of the Southern Cone Documentation Project, The National Security Archive*
-- Roberto Vargas, *Research Librarian for Humanities & Interdisciplinary Studies, Swarthmore College*
+- **Sarah Elichko**, *Social Sciences & Data Librarian, Swarthmore College*
+- **Lewis Fitzgerald-Holland**, *Intern Researcher class of '18, Swarthmore College*
+- **Carlos Osorio**, *Information Systems Manager, Analyst and Director of the Southern Cone Documentation Project, The National Security Archive*
+- **Roberto Vargas**, *Research Librarian for Humanities & Interdisciplinary Studies, Swarthmore College*
 
 
 | [![Swarthmore Logo](/img/final_final.png)](http://www.swarthmore.edu/libraries)  | [![NSA logo](/img/National_Logo.png)](http://nsarchive.gwu.edu/)
