@@ -1,7 +1,8 @@
-/*.sidebar {
-	background-image: url(/img/redacted.png);
+.sidebar {
+	background-image: url(/img/redacted2.png);
+	background-size: auto 950px;
 }
-*/
+
 a.sidebar-nav-item-image {
 	background-color: white;
 }
@@ -11,11 +12,26 @@ a.sidebar-nav-item-image img:hover {
 }
 
 .theme-base-08 .sidebar {
-  background-color: #062f4f;
+	background-color: white;
+  /*background-color: #062f4f;*/
 }
 
 .sidebar a {
-  color: #FFF;
+  color: black;
+}
+
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+
+.redacted:hover {
+	background-color: black;
+	color:black;
+}
+
+.sidebar-about h1 {
+	padding-bottom: 90px;
 }
 
 .sidebar .lead a {
@@ -29,6 +45,7 @@ footer {
 
 .content {
 	min-height: 100vh; /* minus the height of the footer */
+	padding-top: 1.5rem;
 }
 
 /*controls table where logos are located in the index page */
