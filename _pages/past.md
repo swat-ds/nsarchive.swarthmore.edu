@@ -5,19 +5,25 @@ title: Previous
 
 ## 2016
 
-participants
+Research Interns:
 
-*
-*
+• Matthew Chaffinch (Swarthmore)
+• Leo Eliot (Swarthmore) 
+• Conrad Pastore (Tufts)
 
-## 2015
 
 ![group of students](http://nsarchive.swarthmore.edu/img/summer_research15.jpg)
 
-participants
 
-*
-*
+## 2015
+
+Research Interns: 
+
+• Carlo Bruno
+• Brandon Conner
+• Michael McVerry
+• William Meyer
+
 
 
 
