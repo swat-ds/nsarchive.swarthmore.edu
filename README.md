@@ -1,6 +1,6 @@
 # National Security Archive Internship @ Swarthmore College
 
-The Summer Research Internship offers students the opportunity to learn about Latin American-US relations while engaging in work that expands the capacity of the National Security Archive. Under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko, interns gain valuable experience working directly with declassified government documents, as well as working collaboratively on an interdisciplinary and geographically-distributed team.
+The Summer Research Internship offers students the opportunity to learn about Latin American-US relations while engaging in work that expands the capacity of the National Security Archive. Under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko, interns gain valuable experience working directly with government documents, as well as working collaboratively on an interdisciplinary and geographically-distributed team.
 
 ## Site
 
