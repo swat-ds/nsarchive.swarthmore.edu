@@ -1,7 +1,7 @@
 ---
 date: '2017-08-07 10:43 -0400'
 layout: post
-published: false
+published: true
 title: Initial Observations and Thoughts on Venezuela/Russia Cables
 ---
 # Initial Observations and Thoughts on Venezuela/Russia Cables
