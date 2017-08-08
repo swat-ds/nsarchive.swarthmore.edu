@@ -4,7 +4,6 @@ layout: post
 published: true
 title: Initial Observations and Thoughts on Venezuela/Russia Cables
 ---
-# Initial Observations and Thoughts on Venezuela/Russia Cables
 
 What excited me the most about diving into this project was the chance to test and scrutinize the broader theories of political science, a lense through which I had viewed Latin American politics in several courses at Swarthmore, on the micro-level through a cache of diplomatic documents. In previous years the joint NSA internship has looked at US and Latin American relations, focusing on certain subsets of cables leaked by Chelsea Manning in 2010 in a dump labeled “cablegate.” This year, the focus will be on relations between Russia, China, and Iran, and several “Pink Tide,” or socialist-leaning and socialist governed Latin American countries. 
 
