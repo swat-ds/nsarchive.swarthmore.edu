@@ -4,12 +4,10 @@ title: Home
 ---
 ## National Security Archive Summer Research Internship
 
+The National Security Archive Research Internship is a collaborative effort joining the National Security Archive, the Swarthmore College Libraries, and the Swarthmore College History Department. This summer program offers student interns an opportunity to deepen their knowledge of Latin American-US relations while engaging in work that expands the research capacity of the National Security Archive.
 
-The Summer Research Internship offers students the opportunity to learn about Latin American-US relations while engaging in work that expands the capacity of the National Security Archive. Under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko, interns gain valuable experience working directly with government documents, as well as working collaboratively on an interdisciplinary and geographically-distributed team.
+Interns strengthen their collaborative skills through working on an interdisciplinary and geographically-distributed team, under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko. Students participate in weekly discussions of primary research materials (predominately US government documents) and readings. Occasional response papers and blogging offer an opportunity for reflection. By creating specialized reference materials, improving document-level metadata, and identifying opportunities for filing Freedom of Information Act (FOIA) requests, interns contribute directly to the research efforts of the Archive.
 
-During the first couple weeks of the internship, interns focus their efforts on developing the background knowledge necessary to meaningfully understand the documents with which they will work for the rest of the summer.  They then move into working directly with the primary research materials, largely US government documents.
-
-Each week, the NSA interns, Carlos, Roberto, and Sarah meet (remotely/ in-person) to discuss work from the pa<span class="redacted">st week, any questions that have come up, and plans for the next week. To encourage critical reflection on their work, NSA interns periodically submit short response papers related to themes that have come up in the docum</span>ents and discussions. Carlos leads discussion of these papers and themes as part of the weekly meetings. In between these meetings, Roberto and Sarah check in regularly with the interns.
 
 ### 2017 Team:
 
@@ -17,6 +15,7 @@ Each week, the NSA interns, Carlos, Roberto, and Sarah meet (remotely/ in-person
 - **Lewis Fitzgerald-Holland**, *Intern Researcher class of '18, Swarthmore College*
 - **Carlos Osorio**, *Information Systems Manager, Analyst and Director of the Southern Cone Documentation Project, The National Security Archive*
 - **Roberto Vargas**, *Research Librarian for Humanities & Interdisciplinary Studies, Swarthmore College*
+- **Diego Armus**, *Professor of History, Swarthmore College*
 
 
 | [![Swarthmore Logo](/img/final_final.png)](http://www.swarthmore.edu/libraries)  | [![NSA logo](/img/National_Logo.png)](http://nsarchive.gwu.edu/)
