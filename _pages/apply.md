@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply
+title: Another test
 ---
 
 ## Info coming soon...
