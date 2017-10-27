@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply for the Internship
+title: Apply
 ---
 
 Swarthmore students: Apply through the [Summer Research Opportunties](https://www.swarthmore.edu/summer-research-opportunities) process
