@@ -3,7 +3,7 @@ layout: page
 title: Application
 ---
 
-Swarthmore students: Apply through the [Summer Research Opportunties](https://www.swarthmore.edu/summer-research-opportunities) process
+Swarthmore students: Apply for the National Security Archive Summer Internship through the [Summer Research Opportunties](https://www.swarthmore.edu/summer-research-opportunities) process.
 
-    * Application Process Opens: January 22, 2018
-    * Applications Due: February 7, 2018
+    * Applications Open: January 22, 2018
+    * Due Date: February 7, 2018
