@@ -1,24 +1,26 @@
 ---
 layout: page
-title: Previous
+title: Past Participants
 ---
+
+![Visiting the National Security Archive, 2015](http://nsarchive.swarthmore.edu/img/summer_research15.jpg)
+Interns visiting the National Security Archive in 2015
 
 ## 2016
 
-participants
+* Matthew Chaffinch (Swarthmore)
+* Leo Eliot (Swarthmore)
+* Conrad Pastore (Tufts)
 
 *
 *
 
 ## 2015
 
-![group of students](http://nsarchive.swarthmore.edu/img/summer_research15.jpg)
-
-participants
+* Carlo Bruno (Swarthmore)
+* Brandon Conner (Swarthmore)
+* Michael McVerry (Swarthmore)
+* William Meyer (Swarthmore)
 
 *
 *
-
-
-
-
