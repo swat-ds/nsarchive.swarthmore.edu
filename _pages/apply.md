@@ -1,20 +1,6 @@
 ---
 layout: page
-title: test
+title: Test
 ---
 
-## 2016
-
-participants
-
-*
-*
-
-## 2015
-
-![group of students](http://nsarchive.swarthmore.edu/img/summer_research15.jpg)
-
-participants
-
-*
-*
+## Info coming soon...
