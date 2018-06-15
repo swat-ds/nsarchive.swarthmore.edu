@@ -4,17 +4,18 @@ title: Home
 ---
 ## National Security Archive Summer Research Internship
 
-The National Security Archive Research Internship is a collaborative effort joining the National Security Archive, the Swarthmore College Libraries, and the Swarthmore College History Department. This summer program offers student interns an opportunity to deepen their knowledge of Latin American-US relations while engaging in work that expands the research capacity of the National Security Archive.
+The Research Internship is a collaborative effort joining the National Security Archive, the Swarthmore College Libraries, and the Swarthmore College History Department. This program offers student interns an opportunity to deepen their knowledge of Latin American-US relations while engaging in work that expands the research capacity of the National Security Archive.
 
-Interns strengthen their collaborative skills through working on an interdisciplinary and geographically-distributed team, under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko. Students participate in weekly discussions of primary research materials (predominately US government documents) and readings. Occasional response papers and blogging offer an opportunity for reflection. By creating specialized reference materials, improving document-level metadata, and identifying opportunities for filing Freedom of Information Act (FOIA) requests, interns contribute directly to the research efforts of the Archive.
+Interns strengthen their collaborative skills by working on an interdisciplinary and geographically-distributed team, under the supervision of National Security Archive Analyst Carlos Osorio and Swarthmore librarians Roberto Vargas and Sarah Elichko. Students participate in weekly discussions of primary research materials (predominately US government documents) and readings. Occasional response papers and blogging offer an opportunity for reflection. By creating specialized reference materials, improving document-level metadata, and identifying opportunities for filing Freedom of Information Act (FOIA) requests, interns contribute directly to the research efforts of the Archive.
 
 
-### 2017 Team:
+### 2018 Team
 
-- **Sarah Elichko**, *Social Sciences & Data Librarian, Swarthmore College*
-- **Lewis Fitzgerald-Holland**, *Intern Researcher class of '18, Swarthmore College*
-- **Carlos Osorio**, *Information Systems Manager, Analyst and Director of the Southern Cone Documentation Project, The National Security Archive*
+- **Jissel Becerra-Reyes**, *Research Intern, Swarthmore College class of 2020
+- **Carlos Osorio**, *Analyst and Director of the Southern Cone Documentation Project and Information Systems Manager, The National Security Archive*
+
 - **Roberto Vargas**, *Research Librarian for Humanities & Interdisciplinary Studies, Swarthmore College*
+- **Sarah Elichko**, *Social Sciences & Data Librarian, Swarthmore College*
 - **Diego Armus**, *Professor of History, Swarthmore College*
 
 
