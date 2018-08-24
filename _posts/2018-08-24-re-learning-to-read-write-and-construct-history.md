@@ -1,7 +1,7 @@
 ---
 date: '2018-08-24 10:13 -0400'
 layout: post
-published: false
+published: true
 title: 'Re-learning to Read, Write, and Construct History'
 authors:
   - Jissel Becerra Reyes
