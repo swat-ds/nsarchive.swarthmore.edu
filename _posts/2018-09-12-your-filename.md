@@ -2,7 +2,7 @@
 date: '2018-09-12 11:27 -0400'
 layout: post
 published: false
-title: ''
+title: Demystifying the Freedom of Information Act
 ---
 ## Demystifying the Freedom of Information Act 
 
