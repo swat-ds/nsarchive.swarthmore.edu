@@ -3,6 +3,8 @@ date: '2018-09-12 11:27 -0400'
 layout: post
 published: false
 title: Demystifying the Freedom of Information Act
+authors:
+  - Jissel Becerra Reyes
 ---
 ## Demystifying the Freedom of Information Act 
 
