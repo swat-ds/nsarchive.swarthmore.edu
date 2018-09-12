@@ -6,8 +6,6 @@ title: Demystifying the Freedom of Information Act
 authors:
   - Jissel Becerra Reyes
 ---
-## Demystifying the Freedom of Information Act 
-
 Passed in 1966, the Freedom of Information Act (FOIA) was intended to strengthen American democracy by providing a tool for governmental transparency and accountability. FOIA has now existed for more than fifty years, and though it is not without its shortcomings and critics, it has now become a research method among journalists, attorneys, and members of the American public . Both a verb (‘What records will you FOIA?’) and a noun (‘I plan to request a FOIA on that’), FOIA requests are gaining traction as important steps towards access to information, a right that American citizens--and even foreign nationals--should know about and use freely. 
 
 ## What is the Freedom of Information Act? 
