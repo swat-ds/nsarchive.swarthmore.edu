@@ -13,6 +13,7 @@ title: Blog
         {{ post.title }}
       </a>
     </h1>
+    <h3>by {{post.authors}}</h3>
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.content }}
   </div>
