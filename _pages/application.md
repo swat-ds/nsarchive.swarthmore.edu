@@ -5,5 +5,5 @@ title: Application
 
 For information on how to apply please email:
 
-- *Sarah Elichko* - selichk1
-- *Roberto Vargas* - rvargas1 
+*Sarah Elichko (selichk1)* or *Roberto Vargas (rvargas1)*
+
