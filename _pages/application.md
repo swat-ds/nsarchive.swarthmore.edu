@@ -3,4 +3,7 @@ layout: page
 title: Application
 ---
 
-Application information for the 2019 internship will be available in Fall 2018. 
+For information on how to apply please email:
+
+Sarah Elichko, SOCIAL SCIENCES & DATA LIBRARIAN - selichk1
+Roberto Vargas, RESEARCH LIBRARIAN FOR HUMANITIES & INTERDISCIPLINARY STUDIES - rvargas1 
