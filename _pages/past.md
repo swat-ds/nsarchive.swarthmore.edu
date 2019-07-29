@@ -9,15 +9,11 @@ Interns visiting the National Security Archive in 2015
 ## 2018
 * Jissel Becerra Reyes (Swarthmore)
 
-*
-*
 
 ## 2017
 
 * Lewis Fitzgerald-Holland (Swarthmore)
 
-*
-*
 
 ## 2016
 
@@ -25,8 +21,6 @@ Interns visiting the National Security Archive in 2015
 * Leo Eliot (Swarthmore)
 * Conrad Pastore (Tufts)
 
-*
-*
 
 ## 2015
 
@@ -34,6 +28,3 @@ Interns visiting the National Security Archive in 2015
 * Brandon Conner (Swarthmore)
 * Michael McVerry (Swarthmore)
 * William Meyer (Swarthmore)
-
-*
-*
