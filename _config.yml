@@ -5,7 +5,7 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            "National Security Archive Internship" 
+title:            "National Security Archive Internship"
 tagline:          "coming soon....."
 description:      "@ Swarthmore College"
 url:              ""
@@ -55,11 +55,18 @@ prose:
           label: "authors"
           placeholder: "choose or add authors"
           alterable: true
+      - name: "timeline_id"
+        field:
+          element: "text"
+          label: "Timeline ID"
+          placeholder: "example: 1uGjhA8mK551YwHW1wRF5sh1utOxDV73JfuJbILe2jOI"
+          help: "If including a Timeline, enter the string of characters included in your Timelinejs project URL"
+          value: ""
       - name: "published"
         field:
           element: "checkbox"
           label: "Publish"
-          value: false 
+          value: false
 
-include: 
+include:
   - _pages
