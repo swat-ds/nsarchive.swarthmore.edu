@@ -3,7 +3,7 @@ layout: page
 title: Application
 ---
 
-For information on how to apply please email:
+APPLY!:  <https://forms.gle/iPtHorWgsmuZK4H59>
 
-Sarah Elichko (*selichk1*) or Roberto Vargas (*rvargas1*)
+For more information about the internship, pleaes email Sarah Elichko (*selichk1*) or Roberto Vargas (*rvargas1*)
 
