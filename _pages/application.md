@@ -3,7 +3,7 @@ layout: page
 title: Application
 ---
 
-APPLY!:  <https://forms.gle/iPtHorWgsmuZK4H59>
+Check back in early 2021 to apply!
 
-For more information about the internship, pleaes email Sarah Elichko (*selichk1*) or Roberto Vargas (*rvargas1*)
+For more information about the internship, please email Sarah Elichko (*selichk1*) or Roberto Vargas (*rvargas1*)
 
