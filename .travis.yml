@@ -18,7 +18,7 @@ deploy:
   skip_cleanup: true
   bucket: "sc-lib-ds-static"
   local_dir: _site
-  upload_dir: TARGET_FOLDER
+  upload_dir: nsarchive.swarthmore.edu
   detect_encoding: true
   default_text_charset: "utf-8"
 branches:
