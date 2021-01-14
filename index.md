@@ -19,6 +19,7 @@ Interns strengthen their collaborative skills through working on an interdiscipl
 
 
 | [![Swarthmore Logo](/img/final_final.png)](http://www.swarthmore.edu/libraries)  | [![NSA logo](/img/National_Logo.png)](http://nsarchive.gwu.edu/)
+| [![Lang Center Logo](/img/lang-center-logo.png)](https://www.swarthmore.edu/lang-center/)
 
 
 
