@@ -11,7 +11,7 @@ Interns strengthen their collaborative skills through working on an interdiscipl
 
 # 2020 Team:
 
-- **Evelyn Pineda**, *Intern Researcher, Class of 2022, Swarthmore College*
+- **Evelyn Pineda**, *Intern Researcher, Class of 2022, Swarthmore College* 
 - **Carlos Osorio**, *Information Systems Manager, Analyst and Director of the Southern Cone Documentation Project, The National Security Archive*
 - **Roberto Vargas**, *Research Librarian for Humanities & Interdisciplinary Studies, Swarthmore College*
 - **Sarah Elichko**, *Social Sciences & Data Librarian, Swarthmore College*
